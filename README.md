@@ -2,6 +2,8 @@
 
 [제 3회 정부혁신제안 끝장개발대회](http://civichack.or.kr/?) - Your Safe Space (YSS)
 
+<img width="888" alt="KakaoTalk_Photo_2020-07-28-00-08-46" src="https://user-images.githubusercontent.com/53788601/88558493-913a9a80-d066-11ea-8746-71084deeca69.png">
+
 ## 와이거 팀원 소개
 
 - 정재순(팀장) : 공공 데이터 API / 자료 정리, DB 설계

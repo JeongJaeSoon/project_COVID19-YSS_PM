@@ -1,12 +1,12 @@
 # COVID19_YSS
 
-[제 3회 정부혁신제안 끝장개발대회](http://civichack.or.kr/?) - You're Safe Space (YSS)
+[제 3회 정부혁신제안 끝장개발대회](http://civichack.or.kr/?) - TEMPYou're Safe Space (YSS)
 
-<img width="928" alt="KakaoTalk_Photo_2020-07-28-15-05-29" src="https://user-images.githubusercontent.com/53788601/88626189-2bd9be80-d0e5-11ea-9789-c3fed441ad54.png">
+<img width="100%" alt="KakaoTalk_Photo_2020-07-28-15-05-29" src="https://user-images.githubusercontent.com/53788601/88626189-2bd9be80-d0e5-11ea-9789-c3fed441ad54.png">
 
 ## 와이거 팀원 소개
 
-<img width="1283" alt="KakaoTalk_Photo_2020-07-28-15-01-41" src="https://user-images.githubusercontent.com/53788601/88626233-44e26f80-d0e5-11ea-8a16-55b5f8a504e4.png">
+<img width="100%" alt="KakaoTalk_Photo_2020-07-28-15-01-41" src="https://user-images.githubusercontent.com/53788601/88626233-44e26f80-d0e5-11ea-8a16-55b5f8a504e4.png">
 
 
 ## 프로젝트 소개 및 제안 이유

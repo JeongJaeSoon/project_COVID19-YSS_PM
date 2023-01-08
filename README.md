@@ -1,6 +1,6 @@
 # [COVID19_YSS](http://vue-syder.s3-website.ap-northeast-2.amazonaws.com/)
 
-[제 3회 정부혁신제안 끝장개발대회](http://civichack.or.kr/?) - TEMPYou're Safe Space (YSS)
+[제 3회 정부혁신제안 끝장개발대회](http://civichack.or.kr/?) - You're Safe Space (YSS)
 
 <img width="100%" alt="KakaoTalk_Photo_2020-07-28-15-05-29" src="https://user-images.githubusercontent.com/53788601/88626189-2bd9be80-d0e5-11ea-9789-c3fed441ad54.png">
 
